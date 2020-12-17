@@ -1,0 +1,16 @@
+audiomentations == 0.12.1
+einops == 0.3.0
+hydra_core == 1.0.3
+librosa == 0.8.0
+matplotlib == 3.3.2
+numpy == 1.19.2
+omegaconf == 2.0.2
+pytorch_nlp == 0.5.0
+scikit_learn == 0.23.2
+scipy == 1.5.2
+torch == 1.7.0
+torchaudio == 0.7.0
+torchvision==0.8.1
+plotly==4.13.0
+wandb == 0.10.8
+git+https://github.com/PyTorchLightning/pytorch-lightning.git@204a0a2d03ce7dfb014e347f1d34a49ef5e86902#egg=pytorch-lightning
